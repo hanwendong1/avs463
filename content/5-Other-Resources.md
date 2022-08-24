@@ -21,7 +21,7 @@ The library subscribes to the following diary science journals, most of which ar
 - [Applied Animal Behaviour Science](https://www-sciencedirect-com.uidaho.idm.oclc.org/journal/applied-animal-behaviour-science){:target="_blank" rel="noopener"}
 - [Dairy Foods](https://go-gale-com.uidaho.idm.oclc.org/ps/i.do?p=ITOF&u=mosc00780&id=GALE%7C3301&v=2.1&it=aboutJournal){:target="_blank" rel="noopener"}
 - [Dairy Herd Management](https://www-proquest-com.uidaho.idm.oclc.org/publication/6807?accountid=14551&OpenUrlRefId=info:xri/sid:primo){:target="_blank" rel="noopener"}
-- [Dairy Industries International](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/2vsn7u/alma992831060001851){:target="_blank" rel="noopener"})
+- [Dairy Industries International](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/2vsn7u/alma992831060001851){:target="_blank" rel="noopener"}
 - [Dairy Science & Technology](https://www.dairy-journal.org/index.php?option=com_issues&task=multi&Itemid=39&lang=en_GB.utf8,+en_GB.UT){:target="_blank" rel="noopener"}
 - Hoard's Dairyman ([print](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/2vsn7u/alma996012804601851){:target="_blank" rel="noopener"}, [microform](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/2vsn7u/alma995334201851){:target="_blank" rel="noopener"})
 - [International Dairy Journal](https://www-sciencedirect-com.uidaho.idm.oclc.org/journal/international-dairy-journal){:target="_blank" rel="noopener"}
