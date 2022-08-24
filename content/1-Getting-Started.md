@@ -17,7 +17,29 @@ When conducting college-level research, there is a general process to follow:
 
 {% include card.md text=text header="Research Process" %}
 
-Since you have already selected your topic, this guide will focus on the other aspects of the research process. First, let’s talk about Boolean logic. 
+Since you have already selected your topic, this guide will focus on the other aspects of the research process. Ideally, you chose a topic that you were somewhat familiar with or is interested in conducting research on. To get more information and ideas on the food that you selected, use <a href="https://www.google.com/" target="_blank" rel="noopener">Google</a>, or <a href="https://www.wikipedia.org/" target="_blank" rel="noopener">Wikipedia</a>. Note that you can't cite a Wikipedia article or most of the websites from a Google search. You can, however, find some keywords that you can use or some peer-reviewed literature (references at the bottom of a Wikipedia article, for instance) and other linked sources to gray literature and scholarly literature. 
+
+What are the differences among popular, scholarly, and gray literature? Below are the characteristics of each source that can help you differentiate from others:
+* Popular/General Interest Magazine (news, media, magazines)
+    + Shorter articles with broad overviews of topics
+    + Published to inform, entertain, or persuade
+    + Possibly a “suggested reading” list, usually no bibliography
+    + Authors are often journalists or staff writers; No credentials are provided
+    + Articles are not evaluated by experts in the field, but by editors on staff
+* Scholarly Journals (peer-reviewed or refereed)
+    + Longer articles, providing in-depth analysis of topics
+    + Publish original research in a field
+    + Bibliography provided to document research
+    + Authors are usually experts or specialists in the field; Names and credentials are always provided
+    + Articles are reviewed and evaluated by experts in the field (refereed)
+* Gray Literature (bulletins, trade journals, science communications, gov’t reports)
+    + Long or short, depending on intended audience
+    + Published through the government, organizations, institutes, and interest groups; Often original research
+    + Bibliographies usually provided
+    + Authors are usually experts or specialists in the field; Names and credentials are always provided
+    + Articles are often written by experts, but are mostly not peer-reviewed; In some cases, e.g. federal agencies, they may have internal peer-review
+ 
+Now let’s talk about Boolean logic. 
 
 ## Boolean Logic
 
