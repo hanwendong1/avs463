@@ -21,9 +21,9 @@ The library subscribes to the following diary science journals, most of which ar
 - [Applied Animal Behaviour Science](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71133257400001451){:target="_blank" rel="noopener"}
 - [Dairy Foods](https://go-gale-com.uidaho.idm.oclc.org/ps/i.do?p=ITOF&u=mosc00780&id=GALE%7C3301&v=2.1&it=aboutJournal){:target="_blank" rel="noopener"}
 - [Dairy Herd Management](https://www-proquest-com.uidaho.idm.oclc.org/publication/6807?accountid=14551&OpenUrlRefId=info:xri/sid:primo){:target="_blank" rel="noopener"}
-- Dairy Industries International ([print](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71175269030001451){:target="_blank" rel="noopener"}, [online](https://link.gale.com/apps/pub/3520/GPS?u=mosc00780&sid=GPS)){:target="_blank" rel="noopener"}
+- Dairy Industries International ([print](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71175269030001451){:target="_blank" rel="noopener"}, [online](https://link.gale.com/apps/pub/3520/GPS?u=mosc00780&sid=GPS){:target="_blank" rel="noopener"})
 - [Dairy Science & Technology](https://www.dairy-journal.org/index.php?option=com_issues&task=multi&Itemid=39&lang=en_GB.utf8,+en_GB.UT){:target="_blank" rel="noopener"}
-- Hoard's Dairyman ([print](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71117680130001451){:target="_blank" rel="noopener"}, [microform](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71109365720001451)){:target="_blank" rel="noopener"}
+- Hoard's Dairyman ([print](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71117680130001451){:target="_blank" rel="noopener"}, [microform](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71109365720001451){:target="_blank" rel="noopener"})
 - [International Dairy Journal](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71101347840001451){:target="_blank" rel="noopener"}
 - [Journal of Animal Breeding and Genetics](https://onlinelibrary-wiley-com.uidaho.idm.oclc.org/journal/14390388){:target="_blank" rel="noopener"}
 - [Journal of Animal Science](https://academic-oup-com.uidaho.idm.oclc.org/jas){:target="_blank" rel="noopener"}
