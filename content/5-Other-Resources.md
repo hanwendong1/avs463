@@ -100,7 +100,7 @@ If you are looking for contextual background information and overview of issue a
 - [USDA dairy products grades and standards](https://www.ams.usda.gov/grades-standards/dairy-products){:target="_blank" rel="noopener"}
 - [US dairy export council dairy data dashboard](https://www.usdec.org/x7813.xml){:target="_blank" rel="noopener"}
 - [USDA dairy products monthly production data](https://usda.library.cornell.edu/concern/publications/m326m1757?locale=en#){:target="_blank" rel="noopener"}
-- [USDA census of agriculture](https://www.nass.usda.gov/AgCensus){:target="_blank" rel="noopener"}
+- [USDA census of agriculture](https://www.nass.usda.gov/AgCensus/){:target="_blank" rel="noopener"}
 - [USDA National Agricultural Statistics Service](https://www.nass.usda.gov/index.php){:target="_blank" rel="noopener"}
 
 ## Citation
