@@ -59,7 +59,7 @@ Boolean logic uses Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             border: 1px solid black;
             padding-top: 12px;
             padding-bottom: 12px;
-            background-color: #f1b300;
+            background-color: #060400;
             color: white;
             }
       </style>
@@ -67,9 +67,9 @@ Boolean logic uses Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
    <body>
       <table>
          <tr>
-            <th style="background-color: #060400; color: white; text-align:Center">Boolean Operator</th>
-            <th style="background-color: #060400; color: white; text-align:Center">Explanation</th>
-            <th style="background-color: #060400; color: white; text-align:Center">Example</th>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Boolean Operator</th>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Explanation</th>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Example</th>
          </tr>
          <tr>
             <th style="text-align:Center">AND</th>
