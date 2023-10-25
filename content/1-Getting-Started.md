@@ -20,7 +20,7 @@ When conducting college-level research, there is a general process to follow:
 Since you have already selected your topic, this guide will focus on the other aspects of the research process. Ideally, you chose a topic you were somewhat familiar with or interested in researching. To get more information and ideas on the topic you selected, use <a href="https://www.google.com/" target="_blank" rel="noopener">Google</a>, or <a href="https://www.wikipedia.org/" target="_blank" rel="noopener">Wikipedia</a>. Note that you can't cite a Wikipedia article or most websites from a Google search. You can, however, find some keywords that you can use or some peer-reviewed literature (references at the bottom of a Wikipedia article, for instance) and other linked sources to gray literature and scholarly literature.
 
 What are the differences among popular, scholarly, and gray literature? Below are the characteristics of each source that can help you differentiate from others:
-* Popular/General Interest Magazines (news, media, magazines)
+* Popular/General Interest (news, media, magazines)
     + Shorter articles with broad overviews of topics
     + Published to inform, entertain, or persuade
     + Possibly a “suggested reading” list, usually no bibliography
