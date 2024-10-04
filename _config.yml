@@ -15,10 +15,10 @@ keywords: "AVS, Growth and Lacation, dairy science"
 featured-image: "/images/uidaho-workshop.jpg"
 
 # author settings for cc-by, appears in the footer
-author: Hanwen Dong
+author: Hanwen Dong, Andrew Weymouth
 Contributor: Jylisa Doney, Evan Will
 pub_year: 2023
-github_username: hanwendong1
+github_username: hanwendong1, aweymo-ui
 
 # add the full url for the github repository
 repo: "https://github.com/hanwendong1/avs463"

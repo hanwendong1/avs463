@@ -2,8 +2,9 @@
 title: Web of Science
 nav: true
 --- 
+<br>
 
-Web of Science has the world’s leading scholarly literature in the sciences, social sciences, arts, and humanities. The database includes proceedings of international conferences, symposia, seminars, colloquia, workshops, and conventions. Click [this link](https://uidaho.idm.oclc.org/login?url=http://webofknowledge.com/UA){:target="_blank" rel="noopener"} to access Web of Science.
+**Web of Science provides access to leading scholarly literature in the sciences, social sciences, and, to a lesser extent, the arts and humanities**. The database includes proceedings of international conferences, symposia, seminars, colloquia, workshops, and conventions. Click [this link](https://uidaho.idm.oclc.org/login?url=http://webofknowledge.com/UA){:target="_blank" rel="noopener"} to access Web of Science.
 
 In the search box, type in your keyword search terms. For instance, if your topic is **Separation of dairy cow from calf**, you can use keyword search terms *cow AND calf AND separation*. You can sort the results using the following options:
 
@@ -18,7 +19,7 @@ In the search box, type in your keyword search terms. For instance, if your topi
 
 Click the number next to Times Cited to view all the other articles that cited this particular article. Click `Full Text from Publisher` to retrieve the full-text article from the publisher’s site, or `Find It` to retrieve the article from U of I Library’s catalog.  
 
-#### Citation Chaining
+### Citation Chaining
 
 Citation chaining is a research technique in which you use one source to find related documents.
 
