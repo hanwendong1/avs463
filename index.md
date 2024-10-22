@@ -14,7 +14,7 @@ My name is Andrew Weymouth and I am the [liaison librarian for College of Agricu
       <h5 class="card-header">Library Reference</h5>
       <div class="card-body">
         <p class="card-text">
-          Contact if you have any more general questions about using the library, finding resources for research papers and projects, creating effective research strategies, and managing citations.
+          If you have any more general questions about using the library, finding resources for research papers and projects, creating effective research strategies, and managing citations:
         </p>
         <a href="https://www.lib.uidaho.edu/about/hours.html#reference" class="btn bg-warning mb-3">Visit</a>
         <a href="mailto: libref@uidaho.edu" class="btn bg-warning mb-3">Email</a>
